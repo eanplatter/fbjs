@@ -2,7 +2,11 @@ BSD License
 
 For fbjs software
 
+<<<<<<< HEAD
 Copyright (c) 2013-2015, Facebook, Inc.
+=======
+Copyright (c) 2013-present, Facebook, Inc.
+>>>>>>> 777c901d3ce2c2495108cb0553b81b499a05e383
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
